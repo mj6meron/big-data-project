@@ -1,0 +1,6 @@
+# Ignore emails.csv dataset file
+emails.csv
+
+
+# Ignore CSV files in the root directory
+/*.csv
